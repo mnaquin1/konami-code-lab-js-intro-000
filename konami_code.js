@@ -32,4 +32,3 @@ const key = e.key
 
   }
 
-}
