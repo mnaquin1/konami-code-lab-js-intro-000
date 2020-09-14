@@ -28,5 +28,5 @@ const key = e.key
   } else {
     index = 0;
   }
-}
+})
 }
